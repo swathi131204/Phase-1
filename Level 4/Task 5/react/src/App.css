@@ -1,0 +1,37 @@
+
+.light-theme {
+  background-color: #ffffff;
+  color: #000000;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+
+.dark-theme {
+  background-color: #333333;
+  color: #ffffff;
+  height: fit-content;
+  display: center;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+/* Button Styles */
+button {
+  padding: 10px 20px;
+  border: none;
+  cursor: pointer;
+  margin-top: 10px;
+  background-color: #007bff;
+  color: white;
+  font-size: 16px;
+  border-radius: 5px;
+}
+
+button:hover {
+  background-color: #0056b3;
+}

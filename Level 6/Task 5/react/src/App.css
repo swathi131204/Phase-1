@@ -1,0 +1,27 @@
+.container {
+  max-width: 400px;
+  margin: 50px auto;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  background-color: #fff;
+  text-align: center;
+}
+
+.loading {
+  color: blue;
+  font-size: 18px;
+}
+
+.error {
+  color: red;
+  font-size: 18px;
+}
+
+.data {
+  margin-top: 20px;
+  font-size: 18px;
+  padding: 10px;
+  border-radius: 5px;
+  background-color: #f4f4f4;
+}

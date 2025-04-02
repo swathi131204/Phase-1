@@ -1,0 +1,64 @@
+[{
+  "_id": {
+    "$oid": "67e4d3d2a8d9329adfb71236"
+  },
+  "name": "John",
+  "age": 25,
+  "city": "Tamil Nadu"
+},
+{
+  "_id": {
+    "$oid": "67e4d3d2a8d9329adfb71237"
+  },
+  "name": "Balan",
+  "age": 30,
+  "city": "Kerala"
+},
+{
+  "_id": {
+    "$oid": "67e4d3d2a8d9329adfb71238"
+  },
+  "name": "Bob",
+  "age": 22,
+  "city": "Chennai"
+},
+{
+  "_id": {
+    "$oid": "67e4d3d2a8d9329adfb71239"
+  },
+  "name": "Charan",
+  "age": 28,
+  "city": "Mumbai"
+},
+{
+  "_id": {
+    "$oid": "67e4d3d2a8d9329adfb7123b"
+  },
+  "name": "Elango",
+  "age": 27,
+  "city": "ooty"
+},
+{
+  "_id": {
+    "$oid": "67e4d3d2a8d9329adfb7123c"
+  },
+  "name": "Mohan",
+  "age": 23,
+  "city": "Munnar"
+},
+{
+  "_id": {
+    "$oid": "67e4d3d2a8d9329adfb7123e"
+  },
+  "name": "Hema",
+  "age": 26,
+  "city": "Coimbatore"
+},
+{
+  "_id": {
+    "$oid": "67e4d3d2a8d9329adfb7123f"
+  },
+  "name": "Kalki",
+  "age": 29,
+  "city": "Coonur"
+}]

@@ -1,0 +1,230 @@
+[{
+  "_id": {
+    "$oid": "67eba91200b120fabfb7124a"
+  },
+  "title": "Harry Potter and the Sorcerer's Stone",
+  "published_date": {
+    "$date": "1997-06-26T00:00:00.000Z"
+  },
+  "ISBN": "978-0439708180",
+  "page_count": 309,
+  "genres": [
+    "Fantasy",
+    "Adventure"
+  ],
+  "publisher": {
+    "name": "Bloomsbury",
+    "location": "London"
+  },
+  "author_ids": [
+    {
+      "$oid": "65a7f2c1d5f7a5e8d1a12301"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67eba91200b120fabfb7124b"
+  },
+  "title": "Harry Potter and the Chamber of Secrets",
+  "published_date": {
+    "$date": "1998-07-02T00:00:00.000Z"
+  },
+  "ISBN": "978-0439064873",
+  "page_count": 341,
+  "genres": [
+    "Fantasy",
+    "Adventure"
+  ],
+  "publisher": {
+    "name": "Bloomsbury",
+    "location": "London"
+  },
+  "author_ids": [
+    {
+      "$oid": "65a7f2c1d5f7a5e8d1a12301"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67eba91200b120fabfb7124c"
+  },
+  "title": "1984",
+  "published_date": {
+    "$date": {
+      "$numberLong": "-649036800000"
+    }
+  },
+  "ISBN": "978-0451524935",
+  "page_count": 328,
+  "genres": [
+    "Dystopian",
+    "Political Fiction"
+  ],
+  "publisher": {
+    "name": "Secker & Warburg",
+    "location": "London"
+  },
+  "author_ids": [
+    {
+      "$oid": "65a7f2c1d5f7a5e8d1a12302"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67eba91200b120fabfb7124d"
+  },
+  "title": "Animal Farm",
+  "published_date": {
+    "$date": {
+      "$numberLong": "-769219200000"
+    }
+  },
+  "ISBN": "978-0451526342",
+  "page_count": 112,
+  "genres": [
+    "Dystopian",
+    "Satire"
+  ],
+  "publisher": {
+    "name": "Secker & Warburg",
+    "location": "London"
+  },
+  "author_ids": [
+    {
+      "$oid": "65a7f2c1d5f7a5e8d1a12302"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67eba91200b120fabfb7124e"
+  },
+  "title": "The Hobbit",
+  "published_date": {
+    "$date": {
+      "$numberLong": "-1018656000000"
+    }
+  },
+  "ISBN": "978-0547928227",
+  "page_count": 310,
+  "genres": [
+    "Fantasy",
+    "Adventure"
+  ],
+  "publisher": {
+    "name": "Allen & Unwin",
+    "location": "London"
+  },
+  "author_ids": [
+    {
+      "$oid": "65a7f2c1d5f7a5e8d1a12303"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67eba91200b120fabfb7124f"
+  },
+  "title": "The Lord of the Rings",
+  "published_date": {
+    "$date": {
+      "$numberLong": "-486864000000"
+    }
+  },
+  "ISBN": "978-0618640157",
+  "page_count": 1178,
+  "genres": [
+    "Fantasy",
+    "Adventure"
+  ],
+  "publisher": {
+    "name": "Allen & Unwin",
+    "location": "London"
+  },
+  "author_ids": [
+    {
+      "$oid": "65a7f2c1d5f7a5e8d1a12303"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67eba91200b120fabfb71250"
+  },
+  "title": "To Kill a Mockingbird",
+  "published_date": {
+    "$date": {
+      "$numberLong": "-299030400000"
+    }
+  },
+  "ISBN": "978-0060935467",
+  "page_count": 281,
+  "genres": [
+    "Classic",
+    "Historical Fiction"
+  ],
+  "publisher": {
+    "name": "J.B. Lippincott & Co.",
+    "location": "Philadelphia"
+  },
+  "author_ids": [
+    {
+      "$oid": "65a7f2c1d5f7a5e8d1a12304"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67eba91200b120fabfb71251"
+  },
+  "title": "Murder on the Orient Express",
+  "published_date": {
+    "$date": {
+      "$numberLong": "-1136073600000"
+    }
+  },
+  "ISBN": "978-0062693662",
+  "page_count": 256,
+  "genres": [
+    "Mystery",
+    "Detective"
+  ],
+  "publisher": {
+    "name": "Collins Crime Club",
+    "location": "London"
+  },
+  "author_ids": [
+    {
+      "$oid": "65a7f2c1d5f7a5e8d1a12305"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67eba91200b120fabfb71252"
+  },
+  "title": "And Then There Were None",
+  "published_date": {
+    "$date": {
+      "$numberLong": "-951609600000"
+    }
+  },
+  "ISBN": "978-0062073488",
+  "page_count": 272,
+  "genres": [
+    "Mystery",
+    "Thriller"
+  ],
+  "publisher": {
+    "name": "Collins Crime Club",
+    "location": "London"
+  },
+  "author_ids": [
+    {
+      "$oid": "65a7f2c1d5f7a5e8d1a12305"
+    }
+  ]
+}]

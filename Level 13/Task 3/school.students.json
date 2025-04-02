@@ -1,0 +1,90 @@
+[{
+  "_id": {
+    "$oid": "67e3d491146d6dae0bb71237"
+  },
+  "name": "Swathi",
+  "age": 21,
+  "grade": "10th",
+  "subjects": [
+    "Math",
+    "Science",
+    "English"
+  ],
+  "address": {
+    "street": "Subban Street",
+    "city": "Theni",
+    "state": "Tamil Nadu"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e3d669146d6dae0bb71238"
+  },
+  "name": "swetha",
+  "age": 16,
+  "grade": "10th",
+  "subjects": [
+    "History",
+    "Biology",
+    "Maths"
+  ],
+  "address": {
+    "street": "new street",
+    "city": "Bangalore",
+    "state": "Karnataka"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e3d669146d6dae0bb71239"
+  },
+  "name": "sriram",
+  "age": 17,
+  "grade": "11th",
+  "subjects": [
+    "Physics",
+    "Chemistry",
+    "Maths"
+  ],
+  "address": {
+    "street": "old st",
+    "city": "Dharmapuri",
+    "state": "Tamil Nadu"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e3d669146d6dae0bb7123a"
+  },
+  "name": "saru",
+  "age": 14,
+  "grade": "8th",
+  "subjects": [
+    "English",
+    "Geography",
+    "Art"
+  ],
+  "address": {
+    "street": "321 Pine St",
+    "city": "coimbatore",
+    "state": "TN"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e3d669146d6dae0bb7123b"
+  },
+  "name": "Lokesh",
+  "age": 18,
+  "grade": "12th",
+  "subjects": [
+    "Computer Science",
+    "Maths",
+    "Physics"
+  ],
+  "address": {
+    "street": "654 Cedar St",
+    "city": "chennai",
+    "state": "TN"
+  }
+}]

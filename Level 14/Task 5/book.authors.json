@@ -1,0 +1,70 @@
+[{
+  "_id": {
+    "$oid": "65a7f2c1d5f7a5e8d1a12301"
+  },
+  "name": "J.K. Rowling",
+  "birth_date": {
+    "$date": {
+      "$numberLong": "-139536000000"
+    }
+  },
+  "nationality": "British",
+  "biography": "British author, best known for the Harry Potter series.",
+  "books": []
+},
+{
+  "_id": {
+    "$oid": "65a7f2c1d5f7a5e8d1a12302"
+  },
+  "name": "George Orwell",
+  "birth_date": {
+    "$date": {
+      "$numberLong": "-2099260800000"
+    }
+  },
+  "nationality": "British",
+  "biography": "English novelist, essayist, journalist and critic.",
+  "books": []
+},
+{
+  "_id": {
+    "$oid": "65a7f2c1d5f7a5e8d1a12303"
+  },
+  "name": "J.R.R. Tolkien",
+  "birth_date": {
+    "$date": {
+      "$numberLong": "-2461276800000"
+    }
+  },
+  "nationality": "British",
+  "biography": "English writer, poet, philologist, and academic.",
+  "books": []
+},
+{
+  "_id": {
+    "$oid": "65a7f2c1d5f7a5e8d1a12304"
+  },
+  "name": "Harper Lee",
+  "birth_date": {
+    "$date": {
+      "$numberLong": "-1378425600000"
+    }
+  },
+  "nationality": "American",
+  "biography": "Best known for writing 'To Kill a Mockingbird'.",
+  "books": []
+},
+{
+  "_id": {
+    "$oid": "65a7f2c1d5f7a5e8d1a12305"
+  },
+  "name": "Agatha Christie",
+  "birth_date": {
+    "$date": {
+      "$numberLong": "-2502316800000"
+    }
+  },
+  "nationality": "British",
+  "biography": "Famous for detective novels featuring Hercule Poirot.",
+  "books": []
+}]

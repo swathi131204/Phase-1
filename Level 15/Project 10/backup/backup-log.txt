@@ -1,0 +1,1 @@
+[2025-04-05T04:56:31.857Z] Compressed and created backup: C:\Users\swath\Backups\backup-2025-04-05T04-56-31-826Z.zip
